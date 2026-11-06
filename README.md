@@ -1,2 +1,2 @@
 # Movie-ticketing-booking-system
-project Movie ticketing booking system 
+The Movie Theater Ticket Booking System is a system designed to help manage movies and ticket reservations in a movie theater. It allows staff to book tickets, select movies, showtimes, ticket types, and seats, while also recording the payment details. It also has an account management feature where the admin can manage user accounts and monitor system activities. Overall, the system makes the booking process more organized and helps the theater manage its daily transactions more easily.
